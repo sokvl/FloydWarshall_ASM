@@ -1,0 +1,3 @@
+﻿     Trwa tworzenie biblioteki D:\studia\JA_PROJ\proj\winfrom\x64\Release\ASM_DLL.lib i obiektu D:\studia\JA_PROJ\proj\winfrom\x64\Release\ASM_DLL.exp
+  LINK : określono opcję /LTCG, lecz generowanie kodu nie było wymagane; usuń opcję /LTCG z wiersza polecenia konsolidatora w celu podwyższenia wydajności konsolidatora
+  ASM_DLL.vcxproj -> D:\studia\JA_PROJ\proj\winfrom\x64\Release\ASM_DLL.dll

@@ -1,0 +1,41 @@
+  winfrom.MainForm.resources - Embedded, ContainedInManifestFile, 
+ImageRuntimeVersion: v4.0.30319
+Assembly winfrom, Version=0.0.*, Culture=Język niezmienny (kraj niezmienny): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class Controller: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Interfaces:
+    System.IDisposable
+  Methods:
+    setMode(Boolean(HasFieldMarshal)): PrivateScope, Public, HideBySig
+    getMode(): PrivateScope, Public, HideBySig
+    getThreads(): PrivateScope, Public, HideBySig
+    runFloydWarshall(duration<__int64\,std::ratio<1\,1000000> >*, Boolean(HasFieldMarshal), Int32): PrivateScope, Public, HideBySig
+    getGraph(): PrivateScope, Public, HideBySig
+    setGraph(Int32* IsConst IsConst): PrivateScope, Public, HideBySig
+    loadGraph(vector<int\,std::allocator<int> >*, basic_string<char\,std::char_traits<char>\,std::allocator<char> >* IsImplicitlyDereferenced): PrivateScope, Public, HideBySig
+    saveGraph(): PrivateScope, Public, HideBySig
+    generateGraph(Int32, Int32, Int32): PrivateScope, Public, HideBySig
+    setGraphFromVector(vector<int\,std::allocator<int> >* IsImplicitlyDereferenced): PrivateScope, Public, HideBySig
+    setInf(Int32): PrivateScope, Public, HideBySig
+    setN(Int32): PrivateScope, Public, HideBySig
+    getN(): PrivateScope, Public, HideBySig
+    getInf(): PrivateScope, Public, HideBySig
+    setSliderValue(Int32): PrivateScope, Public, HideBySig
+    getSliderValue(): PrivateScope, Public, HideBySig
+    Dispose(): PrivateScope, Public, Final, Virtual, HideBySig
+Class winfrom.MainForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName

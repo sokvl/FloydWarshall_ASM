@@ -1,0 +1,4 @@
+D:\studia\JA_PROJ\winfrom\winfrom\x64\Debug\winfrom.vcxproj.AssemblyReference.cache
+D:\studia\JA_PROJ\winfrom\winfrom\x64\Debug\winfrom.vcxproj.SuggestedBindingRedirects.cache
+D:\studia\JA_PROJ\winfrom\winfrom\x64\Debug\winfrom.MainForm.resources
+D:\studia\JA_PROJ\winfrom\winfrom\x64\Debug\winfrom.vcxproj.GenerateResource.cache
