@@ -10,9 +10,9 @@ A simple WinForms application in C++ and ASM allowing users to test the efficien
 - C++/ASM runtime DLL execution
 
 ## Technologies used
-# C++
-# ASM
-# WinForms
+- C++
+- ASM
+- WinForms
 
 ## Installation
 
